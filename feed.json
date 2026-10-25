@@ -1,0 +1,31 @@
+{
+  "name": "MrCrippy",
+  "latest": {
+    "version": "1.0.0",
+    "shell": 2,
+    "title": "First release",
+    "notes": [
+      "The whole planet: 14 themed districts, farming, fishing, cooking, building and automation",
+      "Walk-in bars, caf\u00e9s, restaurants, shops, libraries, museums, arcades, karaoke and bowling",
+      "In-app updates: new versions show up on the title screen and install with one click"
+    ],
+    "date": "2026-10-25",
+    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.0.0",
+    "game": {
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.0.0/MrCrippy-1.0.0-game.zip",
+      "sha256": "81637a30d51f96a52178c4d435d6be21ecfe5fe6c7a1f4f379ee736e0e2c63b3",
+      "sig": "RTf9MEH8NVbEHi4xa+jDFPuriVd6MrvXeV1c+7ssXxpd7W2Hv76RbmuRhZFGUJ/wtq63K4IeMl2dCXD63EJWDA==",
+      "size": 708802
+    },
+    "app": {
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.0.0/MrCrippy-1.0.0-mac.zip",
+      "sha256": "d5cf6d1f4ad948bb20faf8a43fa789e2f712cdc68b7ab0497b3435f93496549d",
+      "sig": "+6fnp2z3qQcDC1HgDfIK1AoGznEy/5xnw97cOmK6JgxhH64WVz497IZEKX/BTC7nf8Nq6Z3+bH78G5eHO6uzAQ==",
+      "size": 864791
+    },
+    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.0.0/MrCrippy-1.0.0.dmg",
+    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.0.0/MrCrippy-1.0.0-web.zip"
+  },
+  "upcoming": [],
+  "message": "Thanks for playing MrCrippy! New versions install right from the game."
+}
