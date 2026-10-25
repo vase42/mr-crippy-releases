@@ -5,7 +5,7 @@ city districts with bars, cafés, trains and secrets.
 
 ## Download (Mac)
 
-**[Download the latest version (1.0.0)](https://github.com/vase42/mr-crippy-releases/releases/tag/v1.0.0)**, then pick `MrCrippy-1.0.0.dmg`.
+**[Download the latest version (1.1.0)](https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.0)**, then pick `MrCrippy-1.1.0.dmg`.
 
 1. Open the `.dmg` and drag **MrCrippy** into **Applications**.
 2. The first time, macOS blocks it because it isn't from the App Store: open **System Settings →
@@ -13,7 +13,7 @@ city districts with bars, cafés, trains and secrets.
 3. After that, MrCrippy updates itself. When a new version is out you'll see it on the title screen
    and under **Menu → Updates**.
 
-Not on a Mac? Download `MrCrippy-1.0.0-web.zip`, unzip it and open `index.html` in a browser.
+Not on a Mac? Download `MrCrippy-1.1.0-web.zip`, unzip it and open `index.html` in a browser.
 
 ## Coming soon
 
