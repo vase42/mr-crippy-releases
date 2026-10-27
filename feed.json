@@ -1,29 +1,28 @@
 {
   "name": "MrCrippy",
   "latest": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "shell": 2,
-    "title": "Cartoon Opening",
+    "title": "Update Check Fix",
     "notes": [
-      "The game now opens like an old cartoon: a circle pops up on a black screen and opens onto the valley",
-      "Starting or loading a game opens the same way"
+      "Check for Updates on the title screen now tells you the result, like \"You have the latest version.\""
     ],
     "date": "2026-10-27",
-    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.1",
+    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.2",
     "game": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-game.zip",
-      "sha256": "a5ed0290fafb39213559624b9d6b325862720f8646f961c9e4a74876c252ec3b",
-      "sig": "s6ZHDHHgCb0soFZpJ9o6ZdHheixJVYM8F4eDIZWYSve8HOMGNGDOAsIXahPE1MPXNKjWQfAcjVmcb1xXi0g8Dw==",
-      "size": 720215
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-game.zip",
+      "sha256": "4ad25432e04902a97038f8b56f6afaabcfd56d8094dd7aca49e8d5d4727a0434",
+      "sig": "gNlbPLf+/xEZ6a4tFEoZFnfjKIKhEYh0AciUEG3KLqEnmr+wAwrZ6PQelH+qRNjYtpAUFiiZ0tFOBcOmNe1lAA==",
+      "size": 720374
     },
     "app": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-mac.zip",
-      "sha256": "cac7e129fa5b099e3d491ac23312992e4ca7cc58a206ed4b4d775a354f5df82b",
-      "sig": "jTrqY+QpE3dh1wJOsUUdQYfZgEFhVjUHYXbUw246FB4xSGwSxz1ezmSxa4KRTjWE+xQ7RHXMn9l97lr3fH+lAw==",
-      "size": 876414
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-mac.zip",
+      "sha256": "e4109102ca210dec11a1ca2ced6dac2e25a1e0ea9d2e0cb6e240a94f646bd90c",
+      "sig": "LKeyb+5penuHsFF7W0HGbNOLeCDuF7r34w20aG/zwrdh2HOYd/udo1Y9AEt8vpVxHAxGChXzIQNFfebx7u1xDQ==",
+      "size": 876573
     },
-    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1.dmg",
-    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-web.zip"
+    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2.dmg",
+    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-web.zip"
   },
   "upcoming": [],
   "message": "Thanks for playing MrCrippy! New versions install right from the game."
