@@ -1,28 +1,32 @@
 {
   "name": "MrCrippy",
   "latest": {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "shell": 2,
-    "title": "Update Check Fix",
+    "title": "All Aboard",
     "notes": [
-      "Check for Updates on the title screen now tells you the result, like \"You have the latest version.\""
+      "Buses, trains and ferries you can actually ride: buy a ticket at the stop, wait for it to pull in, hop on and ride along (or doze off until your stop)",
+      "Paved two-lane roads with sidewalks between towns, a bus stop in every town and bus lines linking them",
+      "Railways now go around towns and you can see the tracks; ferries sail between harbour towns",
+      "Vehicles keep to their lane and wait for people and each other instead of driving through them",
+      "Your existing world gets the new roads and lines the first time you load it"
     ],
     "date": "2026-10-27",
-    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.2",
+    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.2.0",
     "game": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-game.zip",
-      "sha256": "4ad25432e04902a97038f8b56f6afaabcfd56d8094dd7aca49e8d5d4727a0434",
-      "sig": "gNlbPLf+/xEZ6a4tFEoZFnfjKIKhEYh0AciUEG3KLqEnmr+wAwrZ6PQelH+qRNjYtpAUFiiZ0tFOBcOmNe1lAA==",
-      "size": 720374
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.2.0/MrCrippy-1.2.0-game.zip",
+      "sha256": "6f5cf5619bc65b8207606d0fbe02b543c46ff224f5121a14b720a7ae2824b58b",
+      "sig": "QyacawWULlkVNOTKRE1AkR1PSwkde5Vooen1pReU4bSpBySGepcI0z0Pn2fjlydoB2oXS2DdJtsmhism2WgNAg==",
+      "size": 730481
     },
     "app": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-mac.zip",
-      "sha256": "e4109102ca210dec11a1ca2ced6dac2e25a1e0ea9d2e0cb6e240a94f646bd90c",
-      "sig": "LKeyb+5penuHsFF7W0HGbNOLeCDuF7r34w20aG/zwrdh2HOYd/udo1Y9AEt8vpVxHAxGChXzIQNFfebx7u1xDQ==",
-      "size": 876573
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.2.0/MrCrippy-1.2.0-mac.zip",
+      "sha256": "434e9f7efdb4dee6a4c26f733f402a976388859db364041c993e4da8c4d15853",
+      "sig": "4O/+1b/VQ/PDHeYAiFr6BG5grZ1Ket/yHpC4mL+qsegNEJbfpn/qj+sl5aAR6zUO+UhZwwIdMtGBAehAwM0ZBA==",
+      "size": 886686
     },
-    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2.dmg",
-    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.2/MrCrippy-1.1.2-web.zip"
+    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.2.0/MrCrippy-1.2.0.dmg",
+    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.2.0/MrCrippy-1.2.0-web.zip"
   },
   "upcoming": [],
   "message": "Thanks for playing MrCrippy! New versions install right from the game."
