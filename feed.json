@@ -1,33 +1,29 @@
 {
   "name": "MrCrippy",
   "latest": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "shell": 2,
-    "title": "Grandpa's Journal",
+    "title": "Cartoon Opening",
     "notes": [
-      "A story: Grandpa Crippy's letter and six chapters that guide you through the game, each returning a page of his journal",
-      "Quest book (press L) with a tracker under the clock, plus three daily quests",
-      "Walking into any building now zooms in, like bars and libraries",
-      "Upper floors keep the same size and view, never trap you, and each floor is different",
-      "No more goal announcement spam from the locals",
-      "Fixed saving after townsfolk start using benches and stalls"
+      "The game now opens like an old cartoon: a circle pops up on a black screen and opens onto the valley",
+      "Starting or loading a game opens the same way"
     ],
-    "date": "2026-10-25",
-    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.0",
+    "date": "2026-10-27",
+    "page": "https://github.com/vase42/mr-crippy-releases/releases/tag/v1.1.1",
     "game": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.0/MrCrippy-1.1.0-game.zip",
-      "sha256": "926df32da4d127a14e561bab32b56d2933da3caa147f6798778a8bb0f905b9c2",
-      "sig": "lLW4j0KR65mX/nqACXHhpTYpy1iDCvmmz5V0EmIw8dNIn8DujQASylUAiS7hBZUQ8tPKgMLuSOkrew4X95g9BA==",
-      "size": 719923
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-game.zip",
+      "sha256": "a5ed0290fafb39213559624b9d6b325862720f8646f961c9e4a74876c252ec3b",
+      "sig": "s6ZHDHHgCb0soFZpJ9o6ZdHheixJVYM8F4eDIZWYSve8HOMGNGDOAsIXahPE1MPXNKjWQfAcjVmcb1xXi0g8Dw==",
+      "size": 720215
     },
     "app": {
-      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.0/MrCrippy-1.1.0-mac.zip",
-      "sha256": "bd0931242e4ac069e01ff72eb05075b05204d571c97a14409fac7737f346f739",
-      "sig": "tBn8n96lYwD9bLDogTRmXo0hoHz7Z+Aern5VehoEkBA+hsK6Aw097mAhoKkWEEgPNkF4n+2CUG1rUMSfGWepBg==",
-      "size": 876118
+      "url": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-mac.zip",
+      "sha256": "cac7e129fa5b099e3d491ac23312992e4ca7cc58a206ed4b4d775a354f5df82b",
+      "sig": "jTrqY+QpE3dh1wJOsUUdQYfZgEFhVjUHYXbUw246FB4xSGwSxz1ezmSxa4KRTjWE+xQ7RHXMn9l97lr3fH+lAw==",
+      "size": 876414
     },
-    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.0/MrCrippy-1.1.0.dmg",
-    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.0/MrCrippy-1.1.0-web.zip"
+    "dmg": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1.dmg",
+    "web": "https://github.com/vase42/mr-crippy-releases/releases/download/v1.1.1/MrCrippy-1.1.1-web.zip"
   },
   "upcoming": [],
   "message": "Thanks for playing MrCrippy! New versions install right from the game."
